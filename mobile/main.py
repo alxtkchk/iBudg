@@ -99,3 +99,4 @@ class SettingsWindow(tk.Toplevel):
 if __name__ == "__main__":
     app = BudgetManagerApp()
     app.mainloop()
+

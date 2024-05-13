@@ -61,6 +61,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - This project was inspired by the need for a simple and intuitive budget management tool.
-- Special thanks to the Python community for their contributions to open-source software development.
+- Special thanks to the Python community for their contributions to open source software development.
 
 
